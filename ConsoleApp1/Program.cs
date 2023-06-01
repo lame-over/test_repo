@@ -12,6 +12,7 @@ namespace ConsoleApp1
         {
             int n1 = 0, n2 = 1;
             int sum;
+            Console.WriteLine('Числа Фiбаначi');
             Console.Write(n1+ " " + n2 + " ");
             for (int i = 0; i <= 40; i++)
             {
